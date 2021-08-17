@@ -1,1 +1,3 @@
 this file is currently untracked
+
+making changes after file is staged
